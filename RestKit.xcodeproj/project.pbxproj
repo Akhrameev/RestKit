@@ -2696,6 +2696,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Code/Support/RestKit-Prefix.pch";
+				HEADER_SEARCH_PATHS = "\"$(OBJROOT)/UninstalledProducts/include\"";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OBJROOT = "$(SRCROOT)/Build";
 				OTHER_LDFLAGS = "-ObjC";
@@ -2717,6 +2718,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Code/Support/RestKit-Prefix.pch";
+				HEADER_SEARCH_PATHS = "\"$(OBJROOT)/UninstalledProducts/include\"";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OBJROOT = "$(SRCROOT)/Build";
 				OTHER_LDFLAGS = "-ObjC";
