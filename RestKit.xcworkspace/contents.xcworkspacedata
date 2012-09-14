@@ -30,4 +30,7 @@
    <FileRef
       location = "group:RestKit.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:Vendor/AFNetworking/AFNetworking.xcodeproj">
+   </FileRef>
 </Workspace>

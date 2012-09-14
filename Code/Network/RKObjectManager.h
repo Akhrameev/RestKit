@@ -18,12 +18,12 @@
 //  limitations under the License.
 //
 
-#import <RestKit/Network.h>
-#import "RKRouter.h"
-#import "RKObjectPaginator.h"
-#import "RKMacros.h"
-#import "AFNetworking.h"
-#import "RKManagedObjectRequestOperation.h"
+#import "RestKit/Network.h"
+#import "RestKit/RKRouter.h"
+#import "RestKit/RKObjectPaginator.h"
+#import "RestKit/RKMacros.h"
+#import "AFNetworking/AFNetworking.h"
+#import "RestKit/RKManagedObjectRequestOperation.h"
 
 @protocol RKSerialization;
 @class RKManagedObjectStore, RKObjectRequestOperation, RKManagedObjectRequestOperation,

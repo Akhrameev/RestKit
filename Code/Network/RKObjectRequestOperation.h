@@ -18,8 +18,8 @@
 //  limitations under the License.
 //
 
-#import "RKHTTPRequestOperation.h"
-#import "RKMappingResult.h"
+#import "RestKit/RKHTTPRequestOperation.h"
+#import "RestKit/RKMappingResult.h"
 
 // Add docs about cacheing behaviors...
 @interface RKObjectRequestOperation : NSOperation

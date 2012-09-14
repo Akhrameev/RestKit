@@ -6,8 +6,8 @@
 //  Copyright (c) 2009-2012 RestKit. All rights reserved.
 //
 
-#import "AFHTTPClient.h"
-#import "RKTestFactory.h"
+#import "AFNetworking/AFHTTPClient.h"
+#import "RestKit/RKTestFactory.h"
 
 @interface RKTestFactory ()
 
